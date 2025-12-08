@@ -1,1 +1,3 @@
 arch: inetutils
+
+using ifconfig.me for external ip
